@@ -52,4 +52,6 @@ $$ \beta_{5}*superplasticizer \ + \ \beta_{6}*coarse \ aggregate \ + \ \beta_{7}
   - Day 28:  36.41040808733174
 - Random Forest Regressor was the best model with a coefficient of determination(R²) of 90% and a Mean Absolute Error(MAE) of 3.7 meaning that, on average, the model's predictions deviate by 3.7 MPa from the actual strength.
 - Age, cement, and water were the three features that contributed to the prediction.
-
+  
+## Recommendation
+- Add More Data: The decreasing trend in validation error suggests that adding more data could improve the model’s performance.
