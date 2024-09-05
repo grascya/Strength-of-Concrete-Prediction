@@ -22,7 +22,7 @@ At 28 days, concrete achieves 99% of the strength. Thus usual measurements of st
 The goals of this case are:
 
 1. The average strength of the concrete samples at 1, 7, 14, and 28 days of age.
-2. The coefficients of regression model using the formula provided to us:
+2. The coefficients of the regression model using the formula provided to us:
 
 $$ Concrete \ Strength = \beta_{0} \ + \ \beta_{1}*cement \ + \ \beta_{2}*slag \ + \ \beta_{3}*fly \ ash  \ + \ \beta_{4}*water \ + $$ 
 $$ \beta_{5}*superplasticizer \ + \ \beta_{6}*coarse \ aggregate \ + \ \beta_{7}*fine \ aggregate \ + \ \beta_{8}*age $$
