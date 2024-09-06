@@ -36,7 +36,7 @@ $$ \beta_{5}*superplasticizer \ + \ \beta_{6}*coarse \ aggregate \ + \ \beta_{7}
 - "coarse_aggregate" - Coarse aggregate (gravel) in kg/m3
 - "fine_aggregate" - Fine aggregate (sand) in kg/m3
 - "age" - Age of the sample in days
-- "strength" - Concrete compressive strength in megapascals (MPa)
+- "strength" - Concrete compressive strength in megapascals (MPa).
 
 ***Acknowledgments**: I-Cheng Yeh, "Modeling of strength of high-performance concrete using artificial neural networks," Cement and Concrete Research, Vol. 28, No. 12, pp. 1797-1808 (1998)*.
 
