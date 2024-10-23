@@ -1,7 +1,7 @@
 # Strength of Concrete Prediction
 This problem was originally proposed by Prof. I-Cheng Yeh, Department of Information Management Chung-Hua University, Hsin Chu, Taiwan in 2007. It is related to his research in 1998 about how to predict compression strength in a concrete structure.
 
-The conventional process of testing the compressive strength of concrete involves casting several cubes for the respective grade and observing the strength of the concrete over a time ranging from 7 to 28 days.
+The conventional process of testing the compressive strength of concrete involves casting several cubes for the respective grade and observing the strength of the concrete over a period of 7 to 28 days.
 
 Various combinations of concrete components are selected, cubes for each combination are cast, and its test strength at 7, 14, and 28 days is noted down. This is a time-consuming and rather tedious process.
 
