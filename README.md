@@ -7,7 +7,7 @@ Various combinations of concrete components are selected, cubes for each combina
 
 This project aims to predict the compressive strength of concrete with maximum accuracy and lowest error (evaluation metrics MAE), for various quantities of constituent components as the input. The concrete cube exhibits behavioral differences in its compressive strengths for cubes that are cured/not cured. Curing is the process of maintaining the moisture to ensure uninterrupted hydration of concrete.
 
-The concrete strength increases if the concrete cubes are cured periodically. The rate of increase in strength is described here.
+The concrete strength increases if the concrete cubes are cured periodically. The rate of increase in strength is described here .
 
 Time % Of Total Strength Achieved [1] [2]
 
