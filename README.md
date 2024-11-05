@@ -1,13 +1,13 @@
 # Strength of Concrete Prediction
 This problem was originally proposed by Prof. I-Cheng Yeh, Department of Information Management Chung-Hua University, Hsin Chu, Taiwan in 2007. It is related to his research in 1998 about how to predict compression strength in a concrete structure.
 
-The conventional process of testing the compressive strength of concrete involves casting several cubes for the respective grade and observing the strength of the concrete over a period of 7 to 28 days.
+The conventional process of testing the compressive strength of concrete involves casting several cubes for the respective grade and observing the concrete's strength over 7 to 28 days.
 
-Various combinations of concrete components are selected, cubes for each combination are cast, and its test strength at 7, 14, and 28 days is noted down. This is a time-consuming and rather tedious process.
+Various combinations of concrete components are selected, cubes for each combination are cast, and its test strength at 7, 14, and 28 days is noted. This is a time-consuming and rather tedious process.
 
-This project aims to predict the compressive strength of concrete with maximum accuracy and lowest error (evaluation metrics MAE), for various quantities of constituent components as the input. The concrete cube exhibits behavioral differences in its compressive strengths for cubes that are cured/not cured. Curing is the process of maintaining the moisture to ensure uninterrupted hydration of concrete.
+This project aims to predict the compressive strength of concrete with maximum accuracy and lowest error (evaluation metrics MAE), for various quantities of constituent components as the input. The concrete cube exhibits behavioral differences in its compressive strengths for cubes that are cured/not cured. Curing is maintaining the moisture to ensure uninterrupted hydration of concrete.
 
-The concrete strength increases if the concrete cubes are cured periodically. The rate of increase in strength is described here .
+The concrete strength increases if the concrete cubes are cured periodically. The rate of increase in strength is described here.
 
 Time % Of Total Strength Achieved [1] [2]
 
@@ -38,7 +38,7 @@ $$ \beta_{5}*superplasticizer \ + \ \beta_{6}*coarse \ aggregate \ + \ \beta_{7}
 - "age" - Age of the sample in days
 - "strength" - Concrete compressive strength in megapascals (MPa).
 
-***Acknowledgments**: I-Cheng Yeh, "Modeling of strength of high-performance concrete using artificial neural networks," Cement and Concrete Research, Vol. 28, No. 12, pp. 1797-1808 (1998)*.
+***Acknowledgments**: I-Cheng Yeh, "Modeling of the strength of high-performance concrete using artificial neural networks," Cement and Concrete Research, Vol. 28, No. 12, pp. 1797-1808 (1998)*.
 
 ## Key Insights
 - The dataset has 1030 entries, 9 columns, 2 types of variables(float & int), and is not normally distributed
