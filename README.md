@@ -1,5 +1,5 @@
 # Strength of Concrete Prediction
-This problem was originally proposed by Prof. I-Cheng Yeh, Department of Information Management, Chung-Hua University, Hsin Chu, Taiwan, in 2007. It is related to his research in 1998 on how to predict compression strength in a concrete structure.
+This problem was originally proposed by Prof. I-Cheng Yeh, Department of Information Management, Chung-Hua University, Hsin Chu, Taiwan, in 2007. It is related to his research in 1998 on how to predict compression strength in a concrete structure .
 
 The conventional process of testing the compressive strength of concrete involves casting several cubes for the respective grade and observing the concrete's strength over 7 to 28 days.
 
